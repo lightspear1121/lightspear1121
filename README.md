@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=404NotFound&fontSize=90)
 ![Image](https://github.com/user-attachments/assets/1d029e62-8b2d-4a08-ba56-749ab31ec97c)
+![Image](https://github.com/user-attachments/assets/1d029e62-8b2d-4a08-ba56-749ab31ec97c)
+![Image](https://github.com/user-attachments/assets/1d029e62-8b2d-4a08-ba56-749ab31ec97c)
 
 <!--
 **lightspear1121/lightspear1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
