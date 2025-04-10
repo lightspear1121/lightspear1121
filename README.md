@@ -1,4 +1,4 @@
-## 404 Not Found
+# 404 Not Found
 ![Image](https://github.com/user-attachments/assets/1d029e62-8b2d-4a08-ba56-749ab31ec97c)
 
 <!--
